@@ -1,5 +1,5 @@
 # Children narrative texts dataset for age prediction   
-This dataset contains 2946 short stories written by children between 5 to 16 years old, each one labeled witht tha author's age. Texts are written in English (1800), French (662) and Spanish (484).
+This dataset contains 2946 short stories written by children between 5 to 16 years old, each one labeled witht the author's age. Texts are written in English (1800), French (662) and Spanish (484).
 
 #Please cite
 If you find usseful this data, please cite this paper:
